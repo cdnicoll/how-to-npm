@@ -1,0 +1,16 @@
+{
+  "name": "@cdnicoll/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "cdnicoll",
+  "license": "ISC",
+  "repository": "https://github.com/cdnicoll/how-to-npm.git",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": "How to NPM"
+}
